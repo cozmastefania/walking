@@ -1,0 +1,62 @@
+div{
+    display: block;
+    margin-left: auto; 
+    margin-right: auto;
+}
+
+img{
+    margin-left: 400px;
+    
+}
+
+#div1{
+    
+    float: left;
+    display: inline;
+}
+
+#button1{
+    display:block;
+    margin-top: 100px;
+    position: absolute;
+    border: 5px solid black;
+    width: 170px;
+    height: 80px;
+    border-radius: 50%;
+    font-size: 30px;
+}
+
+#button2{
+    display: block;
+    margin-top: 100px;
+    border: 5px solid black;
+    width: 170px;
+    height: 80px;
+    border-radius: 50%;
+    font-size: 30px;
+}
+
+#button3{
+    display: block;
+    margin-top: 400px;
+    border: 5px solid black;
+    width: 170px;
+    height: 80px;
+    border-radius: 50%;
+    font-size: 30px;
+}
+
+#button4{
+    display: block;
+    margin-top: 580px;
+    border: 5px solid black;
+    width: 170px;
+    height: 80px;
+    border-radius: 50%;
+    font-size: 30px;
+}
+
+#div2{
+    float: right;
+    display: inline;
+}
